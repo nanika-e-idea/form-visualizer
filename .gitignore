@@ -91,3 +91,7 @@ sw.*
 
 #nodenv version file
 .node-version
+
+#storybook file
+.nuxt-storybook
+storybook-static
